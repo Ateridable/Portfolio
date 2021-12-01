@@ -1,8 +1,6 @@
 package com.jetbrains;
 
-public class Driver {												                                                                    /* Cyrus Harris-MacGregor
-                                                                   CSCI 152 Fall 2020
-    `                                                              Lab #7 Zombie sim oop lab September 30, 2020 */
+public class Driver {												                                                                    
 
 
 	public static void main(String[] args) {
